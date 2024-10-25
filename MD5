@@ -1,0 +1,15 @@
+3448b8c168de848e0e95e83eb11a7228 *DESCRIPTION
+edd811b4c206ac2891ae9161f809ba88 *LICENSE
+b1e59685ce17142a1dac414c5293980d *NAMESPACE
+58ab3f32e4a342de54e28cd230e03f47 *R/gglogger.R
+fb150ac0dd9fcd81ac478a91d197b665 *README.md
+178e731774517a56a6c4c524f76b49dd *man/GGLog-class.Rd
+09455a41cda7fe8ec93c2b6ac14a4e89 *man/GGLogs-class.Rd
+750970a4329f8fb7d86d55d4c3b93e8e *man/figures/logo.png
+08dac18f31694d9b9f9f734c49ce5808 *man/ggplot.Rd
+816706c2b18a90c96d6043eab640499a *man/plus-.gg.Rd
+1a4ae24de08e732151922864f817ab87 *man/print.GGLog.Rd
+394eab2c1099c6c636d809c5667a5d96 *man/print.GGLogs.Rd
+85e8df0ff8a69fa558a1109d7323338c *man/register.Rd
+58dfdc0de81aa46468ac408b720f61c1 *tests/testthat.R
+96d204eee7ff95a904e936ab3697483d *tests/testthat/test-gglogger.R
