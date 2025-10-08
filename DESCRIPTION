@@ -1,7 +1,7 @@
 Package: gglogger
 Type: Package
 Title: Track 'ggplot2' Calls
-Version: 0.1.6
+Version: 0.1.7
 Authors@R: 
     person("Panwen", "Wang", , "pwwang@pwwang.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-4614-8970"))
@@ -12,12 +12,12 @@ Description: Provides a way to log 'ggplot' component calls, which can be
 License: MIT + file LICENSE
 Imports: ggplot2, cli, methods
 Suggests: rlang, testthat, S7
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 Encoding: UTF-8
 URL: https://github.com/pwwang/gglogger/
 NeedsCompilation: no
-Packaged: 2025-06-19 23:14:09 UTC; pwwang
+Packaged: 2025-10-08 06:53:58 UTC; pwwang
 Author: Panwen Wang [aut, cre] (ORCID: <https://orcid.org/0000-0002-4614-8970>)
 Maintainer: Panwen Wang <pwwang@pwwang.com>
 Repository: CRAN
-Date/Publication: 2025-06-19 23:30:02 UTC
+Date/Publication: 2025-10-08 07:10:02 UTC
